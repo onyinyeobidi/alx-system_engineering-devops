@@ -1,2 +1,2 @@
-cat #!/bin/bash
+#!/bin/bash
 tr "A" "Z" | tr "c" "e"		
